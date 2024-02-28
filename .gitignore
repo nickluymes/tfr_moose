@@ -7,3 +7,5 @@ data/
 output/
 scripts/predictive_model_train/
 scripts/predictive_model_update/
+README.md
+README.html
